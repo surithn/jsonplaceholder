@@ -96,5 +96,35 @@
     ]
 
 }
+  ],
+  "search" : [
+    {
+    "id": "GMGT10113",
+    "primary_type" : "Glass & Mirror",
+    "secondary_type": "Wall Mirror",
+    "sku_code": "GMGT10113",
+    "brand": "Kangaroo",
+    "name": "Carina Wall Mirror",
+    "color": "Shiny Black",
+    "dimension": "500 x 500 mm",
+    "mrp": "7000",
+    "volume_litres": "",
+    "mrp_volume": "",
+    "weight_kg": "3.5",
+    "warranty_months": "6",
+    "delivery_fee": "200",
+    "currency": "INR",
+    "max_discount_perc": "50",
+    "description": "Compact and sleek furntiture for your living room with safe rounded edges Made of rubber wood and toughened glass Dark walnut finish Indoor use only",
+    "standard_return_policy": "T",
+    "image": [
+        "https://www.ulcdn.net/images/products/161552/product/Claire_Coffee_Table_Mahogany_Compact_Revised_75.jpg?1560749234",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-2.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-3.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-4.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-5.jpg"
+    ]
+
+}
   ]
 }
