@@ -10,5 +10,35 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "products": [
+    {
+    "id": "GMGT10001",
+    "primary_type" : "Glass & Mirror",
+    "secondary_type": "Glass Table",
+    "sku_code": "GMGT10001",
+    "brand": "Kangaroo",
+    "name": "Warwick Glass Top Coffe Table",
+    "color": "Dark Walnut",
+    "dimension": "300 x 600 x 300 mm",
+    "mrp": "10000",
+    "volume_litres": "",
+    "mrp_volume": "",
+    "weight_kg": "5",
+    "warranty_months": "12",
+    "delivery_fee": "300",
+    "currency": "INR",
+    "max_discount_perc": "40",
+    "description": "Compact and sleek furntiture for your living room with safe rounded edges Made of rubber wood and toughened glass Dark walnut finish Indoor use only",
+    "standard_return_policy": "T",
+    "image": [
+        "https://betterhomeapp.com/product/GMGT10001/images/image-1.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-2.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-3.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-4.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-5.jpg"
+    ]
+
+}
+  ]
 }
