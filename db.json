@@ -115,7 +115,7 @@
 
 }
   ],
-  "product" : [
+  "product" : 
     {
     "id": "GMGT10113",
     "primary_type" : "Glass & Mirror",
@@ -144,5 +144,5 @@
     ]
 
 }
-  ]
+  
 }
