@@ -123,17 +123,14 @@
     "sku_code": "GMGT10113",
     "brand": "Kangaroo",
     "name": "Carina Wall Mirror",
-    "color": "Shiny Black",
     "dimension": [
-      {"size": "500 x 500 mm", "qty": 0},
-      {"size": "300 x 700 mm", "qty": 0}
+      {"size": "500 x 500 mm", "qty": 0, "discount": 30, "unit_price": 3500, "color": "Shiny Black", "delivery_fee": "200", "weight_kg": "3.5"},
+      {"size": "300 x 700 mm", "qty": 0, "discount": 30, "unit_price": 2400, "color": "Metalic Grey", "delivery_fee": "300", "weight_kg": "5"}
     ],
     "mrp": "7000",
     "volume_litres": "",
     "mrp_volume": "",
-    "weight_kg": "3.5",
     "warranty_months": "6",
-    "delivery_fee": "200",
     "currency": "INR",
     "max_discount_perc": "50",
     "description": "Compact and sleek furntiture for your living room with safe rounded edges Made of rubber wood and toughened glass Dark walnut finish Indoor use only",
