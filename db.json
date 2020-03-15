@@ -124,7 +124,10 @@
     "brand": "Kangaroo",
     "name": "Carina Wall Mirror",
     "color": "Shiny Black",
-    "dimension": ["500 x 500 mm"],
+    "dimension": [
+      {"size": "500 x 500 mm", "qty": 0},
+      {"size": "300 x 700 mm", "qty": 0}
+    ],
     "mrp": "7000",
     "volume_litres": "",
     "mrp_volume": "",
