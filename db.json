@@ -165,7 +165,7 @@
 "data$": [
   {
     "category": "Glass",
-    "date": '12-03-2020",
+    "date": "12-03-2020",
     "status": "pending",
     "contact": {
       "tel": 9087654321,
@@ -183,7 +183,7 @@
   },
   {
     "category": "Glass",
-    "date": '12-03-2020",
+    "date": "12-03-2020",
     "status": "pending",
     "contact": {
       "tel": 9087654321,
@@ -201,7 +201,7 @@
   },
   {
     "category": "Glass",
-    "date": '12-03-2020",
+    "date": "12-03-2020",
     "status": "pending",
     "contact": {
       "tel": 9087654321,
