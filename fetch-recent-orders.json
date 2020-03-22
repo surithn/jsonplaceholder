@@ -4,7 +4,8 @@
     "order_type": "SERVICE_UPLOADS",
     "category": "Glass & Mirros",
     "sub-category": "Glass",
-    "sku_code": "GMGT10001""amount": {
+    "sku_code": "GMGT10001",
+    "amount": {
       "total": "1.00",
       "currency": "USD",
       "details": {
@@ -41,7 +42,8 @@
     "order_type": "SERVICE_UPLOADS",
     "category": "Glass & Mirros",
     "sub-category": "Glass",
-    "sku_code": "GMGT10001""amount": {
+    "sku_code": "GMGT10001",
+    "amount": {
       "total": "1.00",
       "currency": "USD",
       "details": {
@@ -78,44 +80,8 @@
     "order_type": "SERVICE_UPLOADS",
     "category": "Glass & Mirros",
     "sub-category": "Glass",
-    "sku_code": "GMGT10001""amount": {
-      "total": "1.00",
-      "currency": "USD",
-      "details": {
-        "subtotal": "1.00",
-        "tax": "0.00",
-        "shipping": "0.00",
-        "handling_fee": "0.00",
-        "shipping_discount": "0.00",
-        "insurance": "0.00"
-      }
-    },
-    "create_time": "2020-03-22T12:06:19Z",
-    "status": "pending",
-    "payer": {
-      "payment_method": "credit_card",
-      "payment_status": "COMPLETED",
-      "payer_info": {
-        "email": "007surithn@gmail.com",
-        "phone": "408 931 2225"
-      }
-    }"shipping": {
-      "address": {
-        "address_line_1": "2211 N First Street",
-        "address_line_2": "Building 17",
-        "admin_area_2": "San Jose",
-        "admin_area_1": "CA",
-        "postal_code": "95131",
-        "country_code": "US"
-      }
-    }
-  },
-  {
-    "id": "GLMRT1234567890",
-    "order_type": "SERVICE_UPLOADS",
-    "category": "Glass & Mirros",
-    "sub-category": "Glass",
-    "sku_code": "GMGT10001""amount": {
+    "sku_code": "GMGT10001",
+    "amount": {
       "total": "1.00",
       "currency": "USD",
       "details": {
