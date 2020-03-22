@@ -1,5 +1,6 @@
 {
     "order_id": "GLMRT0987654321",
+    "order_type": "BOOKING",
     "fee": 100,
     "payment_status": "COMPLETED",
     "category": "Glass",
