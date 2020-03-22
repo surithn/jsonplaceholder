@@ -1,5 +1,6 @@
 {
     "order_id": "GLMRT1234567890",
+    "order_type": "UPLOADS",
     "fee": 100,
     "samples": [
       "https://i.pinimg.com/originals/9c/9d/80/9c9d80a8c1779f56a79c01af497295fd.jpg",
