@@ -49,7 +49,7 @@
         "address_line_2": "Building 17",
         "admin_area_2": "CHENNAI",
         "admin_area_1": "TARAMANI",
-        "state": "TN"
+        "state": "TN",
         "postal_code": "600113",
         "country_code": "IN"
       }
@@ -105,7 +105,7 @@
         "address_line_2": "Building 17",
         "admin_area_2": "CHENNAI",
         "admin_area_1": "THIRUVANMIYUR",
-        "state": "TN"
+        "state": "TN",
         "postal_code": "600119",
         "country_code": "IN"
       }
