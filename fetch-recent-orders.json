@@ -1,74 +1,149 @@
 [
   {
-    "order_id": "GLMRT1234567890",
-    "order_type": "UPLOADS",
-    "fee": 100,
-    "samples": [
-      "https://i.pinimg.com/originals/9c/9d/80/9c9d80a8c1779f56a79c01af497295fd.jpg",
-       "https://sophiahomedecorating.co/wp-content/uploads/2019/07/standard-bedroom-door-height-standard-interior-door-dimensions-interior-door-dimensions.jpg",
-      "https://www.delastec.com/img/p/lionidas/tree_parts.png"
-    ],
-    "payment_status": "COMPLETED",
-    "category": "Glass",
-    "date": "21-03-2020",
-    "status": "completed",
-    "contact": {
-      "tel": 9087654321,
-      "name": "John Rob",
+    "id": "GLMRT1234567890",
+    "order_type": "SERVICE_UPLOADS",
+    "category": "Glass & Mirros",
+    "sub-category": "Glass",
+    "sku_code": "GMGT10001""amount": {
+      "total": "1.00",
+      "currency": "USD",
+      "details": {
+        "subtotal": "1.00",
+        "tax": "0.00",
+        "shipping": "0.00",
+        "handling_fee": "0.00",
+        "shipping_discount": "0.00",
+        "insurance": "0.00"
+      }
+    },
+    "create_time": "2020-03-22T12:06:19Z",
+    "status": "pending",
+    "payer": {
+      "payment_method": "credit_card",
+      "payment_status": "COMPLETED",
+      "payer_info": {
+        "email": "007surithn@gmail.com",
+        "phone": "408 931 2225"
+      }
+    }"shipping": {
       "address": {
-        "line1": "#32 Flim institute",
-        "line2": "kalikundram",
-        "area": "taramani",
-        "city": "chennai",
-        "state": "Tamil Nadu",
-        "country": "India",
-        "Zipcode": 600113
+        "address_line_1": "2211 N First Street",
+        "address_line_2": "Building 17",
+        "admin_area_2": "San Jose",
+        "admin_area_1": "CA",
+        "postal_code": "95131",
+        "country_code": "US"
       }
     }
   },
   {
-    "order_id": "GLMRT1234567899",
-    "order_type": "BOOKINGS",
-    "fee": 100,
-    "samples": [],
-    "payment_status": "COMPLETED",
-    "category": "Glass",
-    "date": "21-03-2020",
-    "status": "completed",
-    "contact": {
-      "tel": 9087654321,
-      "name": "John Rob",
+    "id": "GLMRT1234567890",
+    "order_type": "SERVICE_UPLOADS",
+    "category": "Glass & Mirros",
+    "sub-category": "Glass",
+    "sku_code": "GMGT10001""amount": {
+      "total": "1.00",
+      "currency": "USD",
+      "details": {
+        "subtotal": "1.00",
+        "tax": "0.00",
+        "shipping": "0.00",
+        "handling_fee": "0.00",
+        "shipping_discount": "0.00",
+        "insurance": "0.00"
+      }
+    },
+    "create_time": "2020-03-22T12:06:19Z",
+    "status": "pending",
+    "payer": {
+      "payment_method": "credit_card",
+      "payment_status": "COMPLETED",
+      "payer_info": {
+        "email": "007surithn@gmail.com",
+        "phone": "408 931 2225"
+      }
+    }"shipping": {
       "address": {
-        "line1": "#32 Flim institute",
-        "line2": "kalikundram",
-        "area": "taramani",
-        "city": "chennai",
-        "state": "Tamil Nadu",
-        "country": "India",
-        "Zipcode": 600113
+        "address_line_1": "2211 N First Street",
+        "address_line_2": "Building 17",
+        "admin_area_2": "San Jose",
+        "admin_area_1": "CA",
+        "postal_code": "95131",
+        "country_code": "US"
       }
     }
   },
   {
-    "order_id": "GLMRT1234567880",
-    "order_type": "READYMADE",
-    "fee": 100,
-    "samples": [],
-    "payment_status": "COMPLETED",
-    "category": "Glass",
-    "date": "21-03-2020",
-    "status": "completed",
-    "contact": {
-      "tel": 9087654321,
-      "name": "John Rob",
+    "id": "GLMRT1234567890",
+    "order_type": "SERVICE_UPLOADS",
+    "category": "Glass & Mirros",
+    "sub-category": "Glass",
+    "sku_code": "GMGT10001""amount": {
+      "total": "1.00",
+      "currency": "USD",
+      "details": {
+        "subtotal": "1.00",
+        "tax": "0.00",
+        "shipping": "0.00",
+        "handling_fee": "0.00",
+        "shipping_discount": "0.00",
+        "insurance": "0.00"
+      }
+    },
+    "create_time": "2020-03-22T12:06:19Z",
+    "status": "pending",
+    "payer": {
+      "payment_method": "credit_card",
+      "payment_status": "COMPLETED",
+      "payer_info": {
+        "email": "007surithn@gmail.com",
+        "phone": "408 931 2225"
+      }
+    }"shipping": {
       "address": {
-        "line1": "#32 Flim institute",
-        "line2": "kalikundram",
-        "area": "taramani",
-        "city": "chennai",
-        "state": "Tamil Nadu",
-        "country": "India",
-        "Zipcode": 600113
+        "address_line_1": "2211 N First Street",
+        "address_line_2": "Building 17",
+        "admin_area_2": "San Jose",
+        "admin_area_1": "CA",
+        "postal_code": "95131",
+        "country_code": "US"
+      }
+    }
+  },
+  {
+    "id": "GLMRT1234567890",
+    "order_type": "SERVICE_UPLOADS",
+    "category": "Glass & Mirros",
+    "sub-category": "Glass",
+    "sku_code": "GMGT10001""amount": {
+      "total": "1.00",
+      "currency": "USD",
+      "details": {
+        "subtotal": "1.00",
+        "tax": "0.00",
+        "shipping": "0.00",
+        "handling_fee": "0.00",
+        "shipping_discount": "0.00",
+        "insurance": "0.00"
+      }
+    },
+    "create_time": "2020-03-22T12:06:19Z",
+    "status": "pending",
+    "payer": {
+      "payment_method": "credit_card",
+      "payment_status": "COMPLETED",
+      "payer_info": {
+        "email": "007surithn@gmail.com",
+        "phone": "408 931 2225"
+      }
+    }"shipping": {
+      "address": {
+        "address_line_1": "2211 N First Street",
+        "address_line_2": "Building 17",
+        "admin_area_2": "San Jose",
+        "admin_area_1": "CA",
+        "postal_code": "95131",
+        "country_code": "US"
       }
     }
   }
