@@ -1,0 +1,89 @@
+[
+    {
+      "id": "GMGT10001",
+      "primary_type": "Glass & Mirror",
+      "secondary_type": "Glass Table",
+      "sku_code": "GMGT10001",
+      "brand": "Kangaroo",
+      "name": "Warwick Glass Top Coffe Table",
+      "color": "Dark Walnut",
+      "dimension": [
+        "300 x 600 x 300mm"
+      ],
+      "mrp": "10000",
+      "volume_litres": "",
+      "mrp_volume": "",
+      "weight_kg": "5",
+      "warranty_months": "12",
+      "delivery_fee": "300",
+      "currency": "INR",
+      "max_discount_perc": "40",
+      "description": "Compact and sleek furntiture for your living room with safe rounded edges Made of rubber wood and toughened glass Dark walnut finish Indoor use only",
+      "standard_return_policy": "T",
+      "image": [
+        "https://www.ulcdn.net/images/products/128993/slide/666x363/Noguchi_Coffee_Table_DW_01_2.jpg?1478513099",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-2.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-3.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-4.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-5.jpg"
+      ]
+    },
+    {
+      "id": "GMGT10112",
+      "primary_type": "Glass & Mirror",
+      "secondary_type": "Wall Mirror",
+      "sku_code": "GMGT10112",
+      "brand": "Kangaroo",
+      "name": "Toowong Wall Mirror",
+      "color": "Grey Metal",
+      "dimension": [
+        "600 X 600 mm"
+      ],
+      "mrp": "9000",
+      "volume_litres": "",
+      "mrp_volume": "",
+      "weight_kg": "4",
+      "warranty_months": "12",
+      "delivery_fee": "400",
+      "currency": "INR",
+      "max_discount_perc": "30",
+      "description": "Compact and sleek furntiture for your living room with safe rounded edges Made of rubber wood and toughened glass Dark walnut finish Indoor use only",
+      "standard_return_policy": "T",
+      "image": [
+        "https://www.ulcdn.net/images/products/194498/product/Seinfeld_Coffee_Table_LP.jpg?1527780143",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-2.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-3.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-4.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-5.jpg"
+      ]
+    },
+    {
+      "id": "GMGT10113",
+      "primary_type": "Glass & Mirror",
+      "secondary_type": "Wall Mirror",
+      "sku_code": "GMGT10113",
+      "brand": "Kangaroo",
+      "name": "Carina Wall Mirror",
+      "color": "Shiny Black",
+      "dimension": [
+        "500 x 500 mm"
+      ],
+      "mrp": "7000",
+      "volume_litres": "",
+      "mrp_volume": "",
+      "weight_kg": "3.5",
+      "warranty_months": "6",
+      "delivery_fee": "200",
+      "currency": "INR",
+      "max_discount_perc": "50",
+      "description": "Compact and sleek furntiture for your living room with safe rounded edges Made of rubber wood and toughened glass Dark walnut finish Indoor use only",
+      "standard_return_policy": "T",
+      "image": [
+        "https://www.ulcdn.net/images/products/161552/product/Claire_Coffee_Table_Mahogany_Compact_Revised_75.jpg?1560749234",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-2.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-3.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-4.jpg",
+        "https://betterhomeapp.com/product/GMGT10001/images/image-5.jpg"
+      ]
+    }
+  ]
