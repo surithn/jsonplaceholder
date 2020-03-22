@@ -24,6 +24,7 @@
   {
     "order_id": "GLMRT279527394852",
     "fee": 100,
+    "samples": [],
     "payment_status": "COMPLETED",
     "category": "Glass",
     "date": "12-03-2020",
@@ -45,6 +46,7 @@
   {
     "order_id": "GLMRT983473593",
     "fee": 100,
+    "samples": [],
     "payment_status": "COMPLETED",
     "category": "Glass",
     "date": "19-03-2020",
